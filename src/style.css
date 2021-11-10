@@ -1,0 +1,31 @@
+input {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.container {
+  display: inline-flex;
+  margin: 80px;
+}
+
+h1 {
+  margin: 40px;
+  margin-bottom: 0;
+}
+
+h3 {
+  padding-bottom: 15px;
+}
+
+#board-container {
+  width: 45%;
+  margin-right: 120px;
+}
+
+#form-container {
+  width: 30%;
+}
+
+.secondary-list-iteam {
+  background: rgb(240, 246, 247);
+}
