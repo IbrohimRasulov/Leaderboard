@@ -7,7 +7,7 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "css-loader": "^6.4.0",
+    "css-loader": "^6.5.1",
     "express": "^4.17.1",
     "html-webpack-plugin": "^5.5.0",
     "style-loader": "^3.3.1",

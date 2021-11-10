@@ -1,16 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Leaderboard
 
-> One paragraph statement about the project.
+> In this activity I set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. I consume the Leaderboard API using JavaScript async and await and add some styling.
 
 ![screenshot](./app_screenshot.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS3, JavaScript
+- Bootstrap
+- Webpack
 
 ## Live Demo
 
@@ -36,6 +36,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone the repository to your local machine.
 - npm install webpack webpack-cli --save-dev
 - npm install --save-dev webpack-dev-server
+- npm install --save-dev style-loader css-loader
 ```
 
 ### Deployment
