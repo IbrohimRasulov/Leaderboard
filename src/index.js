@@ -1,1 +1,1 @@
-// import './style.css';
+require('./style.css');
