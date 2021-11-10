@@ -9,29 +9,28 @@
 <script defer src="/main.js"></script></head>
 <body>
     <h1>Leaderboard</h1>
-
     <div class="container">
-        <div class="board-container">
-            <h3 class="d-inline">Recent scores</h3>
-            <button>Refresh</button>
+        <div id="board-container">
+            <h3 class="d-inline-block">Recent scores</h3>
+            <button class="float-end">Refresh</button>
 
             <ul class="list-group">
                 <li class="list-group-item">Name: 100</li>
-                <li class="list-group-item">Name: 30</li>
+                <li class="list-group-item secondary-list-iteam">Name: 30</li>
                 <li class="list-group-item">Name: 40</li>
-                <li class="list-group-item">Name: 90</li>
+                <li class="list-group-item secondary-list-iteam">Name: 90</li>
                 <li class="list-group-item">Name: 50</li>
-                <li class="list-group-item">Name: 70</li>
+                <li class="list-group-item secondary-list-iteam">Name: 70</li>
                 <li class="list-group-item">Name: 80</li>
             </ul>
         </div>
 
-        <div class="form-container">
+        <div id="form-container">
             <h3>Add your score</h3>
 
-            <input type="text" name="name" id="name" placeholder="Your name">
-            <input type="text" name="score" id="score" placeholder="Your score">
-            <button>Submit</button>
+            <input type="text" name="name" id="name" placeholder="Your name" class="form-control">
+            <input type="text" name="score" id="score" placeholder="Your score" class="form-control">
+            <button class="float-end">Submit</button>
         </div>
     </div>
 

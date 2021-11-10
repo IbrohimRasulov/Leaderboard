@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://ibrohimrasulov.github.io/Leaderboard/)
 
 
 ## Getting Started
