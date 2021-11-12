@@ -1,5 +1,5 @@
 import './style.css';
-import { renderList, postHandler } from './util.js';
+import { renderList, postHandler } from './util';
 
 const btnRefresh = document.querySelector('.btn-refresh');
 const btnSubmit = document.querySelector('.btn-submit');
