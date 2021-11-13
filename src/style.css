@@ -7,7 +7,7 @@ h1 {
 h2 {
   font-size: 2rem;
   padding: 0.5rem 0;
-  color: skyblue;
+  color: rgb(0, 110, 33);
 }
 
 .container {
@@ -89,7 +89,7 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 10px rgb(6, 247, 146);
+  box-shadow: inset 0 0 10px gray;
   border-radius: 10px;
 }
 
