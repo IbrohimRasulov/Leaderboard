@@ -81,7 +81,7 @@ body {
   background-image: url("../background.jpg");
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover; 
+  background-size: cover;
 }
 
 ::-webkit-scrollbar {
